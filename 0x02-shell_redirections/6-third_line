@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -n 6 iacta
+head -3 iacta
